@@ -1,9 +1,10 @@
 # Uppriez Core Full-Stack Web
-
+![Frame 1](https://github.com/Rinechxn/upxcore/assets/99713905/0ed4b310-b497-4b9c-8a4e-763d17dc8a39)
 ### About
 "upxcore" is a comprehensive full-stack web project aimed at delivering robust web applications. It integrates various technologies and frameworks to ensure scalability, performance, and ease of use.
 
 ### Technology Used
+
 - **Frontend**: Utilizes Astro alongside traditional web technologies (HTML, CSS, JavaScript) for a modern, efficient user interface.
 - **Backend**: The API layer is built with TypeScript, ensuring type safety and enhancing development efficiency.
 - **Database**: Incorporates Python scripts for database management, indicating flexibility in handling data operations.
